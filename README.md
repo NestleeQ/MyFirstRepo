@@ -1,2 +1,2 @@
 # MyFirstRepo
-Мой первый репозиторий
+My first repo
